@@ -1,0 +1,4 @@
+/home/zhangmenghao/test_install/bin/Tutorial
+/home/zhangmenghao/test_install/include/TutorialConfig.h
+/home/zhangmenghao/test_install/lib/libMathFunctions.a
+/home/zhangmenghao/test_install/include/MathFunctions.h
